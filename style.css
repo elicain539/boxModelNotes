@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size:40px;
+}
+.DOTW {background-color:#32292F}
+.weekend {background-color:#575366}
+.school {background-color:#5762D5}
+.rally {background-color:#D1E3DD}
+.summer {background-color:#6E7DAB}
+.minimum {background-color:lightgray}
+table{
+    width: 100%;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th {
+    padding: 8px 0;
+color:#D1E3DD;
+}
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 129px;
+}
+h1{
+    text-align: center;
+}
