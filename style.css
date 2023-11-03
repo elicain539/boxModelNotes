@@ -28,3 +28,12 @@ td {
 h1{
     text-align: center;
 }
+.georgia{
+    font-family:"Georgia", sans-serif;
+}
+.arial{
+    font-family:"Arial", serif;
+}
+.courier{
+    font-family:"Courier New", monospace;
+}
